@@ -1,0 +1,7 @@
+Symptom_Fever,Symptom_Cough,History_Smoking,Disease
+1,1,1,COVID-19
+1,0,1,Flu
+0,1,0,Pneumonia
+0,0,0,No Disease
+1,1,0,COVID-19
+1,1,1,Pneumonia
